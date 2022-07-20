@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-
+// estilos globais a serem usados em toda a aplicação
 export const GlobalStyle = createGlobalStyle`
 :root {
     --background: #000000;

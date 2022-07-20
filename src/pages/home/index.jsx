@@ -3,6 +3,7 @@ import React,{useState, useEffect} from 'react';
 import {Card} from '../../components/Card';
 import api from '../../services/api';
 import { Loading } from '../../components/Loading/Loading';
+// * importa todos os estilos do arquivos styles
 import * as S from './styles';
 
 export const Home = () => {
@@ -24,6 +25,8 @@ export const Home = () => {
     getItems();
   }, []);
   {
+    /*verifica se está sendo feita a requisição na api e caso true,
+     renderisa o componente de loading*/
     if(load === true){
     return(
       <S.ContainerLoad>
