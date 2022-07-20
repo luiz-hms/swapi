@@ -23,8 +23,8 @@ Caso isso não ocorra, inserir a seguinte url no seu browser [http://localhost:3
 - React Router para navegação entre as páginas
 
 ### Links das bibliotecas e recursos utilizados no projeto
-[Links](https://www.npmjs.com/package/react-lottie)
-[Links](https://lottiefiles.com/)
-[Links](https://reactrouter.com/)
-[Links](https://axios-http.com/ptbr/docs/intro)
-[Links](https://styled-components.com/)
+###### React-Lottie [Heading link](https://www.npmjs.com/package/react-lottie)
+###### Lottie-Files [Heading link](https://lottiefiles.com/)
+###### React-Router [Heading link](https://reactrouter.com/)
+###### Axios [Heading link](https://axios-http.com/ptbr/docs/intro)
+###### Styled-Components [Heading link](https://styled-components.com/)
